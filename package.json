@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Mariomin23/clase-18tarde#readme",
   "devDependencies": {
     "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "mongoose": "^9.4.1"
   }
 }
